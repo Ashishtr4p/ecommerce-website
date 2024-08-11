@@ -1,0 +1,12 @@
+# compiled output
+/node_modules
+
+# dotenv environment variables file
+.env
+
+# migration folders
+#/prisma/migrations
+
+
+# tmp folders
+/tmp
